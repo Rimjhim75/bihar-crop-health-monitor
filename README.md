@@ -4,7 +4,7 @@ A web app that shows crop and vegetation health (NDVI) for any district of Bihar
 
 **Live app:** https://bihar-crop-health-monitor-wmvwzdrfueudndxdtu9w8g.streamlit.app/
 
-!\[App screenshot](screenshot.png)
+!\[App screenshot](Screenshot.png)
 
 ## What the app does
 
